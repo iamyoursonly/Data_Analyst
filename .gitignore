@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# But keep this file
+!pundas.ipynb
+
+# (Optional) keep .gitignore itself
+!.gitignore
